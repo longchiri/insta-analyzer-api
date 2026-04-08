@@ -1,0 +1,12 @@
+{
+  "name": "insta-analyzer-api",
+  "version": "1.0.0",
+  "description": "Instagram 분석기 백엔드 API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
